@@ -1,0 +1,1 @@
+/workspaces/rust-for-data-engineering-week-2/project/cli_customize_fruit_salad/target/debug/libcli_customize_fruit_salad.rlib: /workspaces/rust-for-data-engineering-week-2/project/cli_customize_fruit_salad/src/lib.rs
