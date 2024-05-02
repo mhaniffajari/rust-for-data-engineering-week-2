@@ -1,4 +1,4 @@
-PROJECT_DIRS := project/cli_customize_fruit_salad
+PROJECT_DIRS := project/data_race
 
 rust-version:
 	@echo "Rust command-line utility versions:"
