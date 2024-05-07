@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.linkedProjects": [
+        
+        "/workspaces/security-rust-data-engineer/project/caesar_cipher/Cargo.toml",
+        "/workspaces/security-rust-data-engineer/project/homophonic_cipher/Cargo.toml",
+        "/workspaces/security-rust-data-engineer/project/decoder_ring/Cargo.toml"
+    ]
+}
