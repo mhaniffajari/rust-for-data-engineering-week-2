@@ -1,0 +1,1 @@
+rayon::iter::Map<rayon::slice::Iter<'_, wikipedia::Page<'_, wikipedia::http::default::Client>>, for<'a, 'b> fn(&'a wikipedia::Page<'b, wikipedia::http::default::Client>) -> ProcessedPage {process_page}>
